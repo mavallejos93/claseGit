@@ -1,0 +1,1 @@
+este archivo solo va a estar en android por que es un aconfiguración

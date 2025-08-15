@@ -13,6 +13,3 @@ aqui tengo todo mi code
 
 
 #esto es un cambio nuevo hecho en la master
-
-
-#esto es un cambio nuevo hecho en la master 2

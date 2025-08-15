@@ -15,3 +15,5 @@ aqui tengo todo mi code
 
 
 #esto es un cambio nuevo hecho en la master 2
+
+#esto es un cambio nuevo hecho en la master  desde nueva funcionalidad

@@ -5,3 +5,8 @@ aqui tengo todo mi code
 #hasta mi primer commit en master
 
 #esta linea es solo una configuracion de ios
+#esto es una feature de la aplicacion, quiero agreagr un nuevo formulario.
+
+#yo quiero tener un automovil
+
+#jenny es horrible
